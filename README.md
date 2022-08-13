@@ -4,10 +4,10 @@
 ## Week 1 Deliverables
 During Week 1 of the project, we were asked to complete several pre-planning documents, including choosing our dataset, identifying the variables, and writing a project proposal. Below are links to each of those expected deliverables.
 
-1. [Getting to Know Your Team](https://github.com/aglisson6/ENTITY-Data-Science-Virtual-Academy-Final-Project/blob/main/Week%201%20-%20Get%20to%20Know%20Your%20Team.docx)
-2. [Submit Your Dataset](https://github.com/aglisson6/ENTITY-Data-Science-Virtual-Academy-Final-Project/blob/main/hour.csv) - This dataset was assigned to our group to all complete individual projects using the same set. The data will be used to predict hourly bike rentals based on seasonal and weather conditions.
-3. [Analysis Planning Worksheet](https://github.com/aglisson6/ENTITY-Data-Science-Virtual-Academy-Final-Project/blob/main/Week%201%20-%20Analysis%20Planning%20Worksheet.docx)
-4. [Project Proposal](https://github.com/aglisson6/ENTITY-Data-Science-Virtual-Academy-Final-Project/blob/main/Week%201%20-%20Project%20Proposal.docx)
+1. [Week 1 - Getting to Know Your Team](https://github.com/aglisson6/ENTITY-Data-Science-Virtual-Academy-Final-Project/blob/main/Week%201%20-%20Get%20to%20Know%20Your%20Team.docx)
+2. [Week 1 - Submit Your Dataset (CSV)](https://github.com/aglisson6/ENTITY-Data-Science-Virtual-Academy-Final-Project/blob/main/hour.csv) - This dataset was assigned to our group to all complete individual projects using the same set. The data will be used to predict hourly bike rentals based on seasonal and weather conditions.
+3. [Week 1 - Analysis Planning Worksheet](https://github.com/aglisson6/ENTITY-Data-Science-Virtual-Academy-Final-Project/blob/main/Week%201%20-%20Analysis%20Planning%20Worksheet.docx)
+4. [Week 1 - Project Proposal](https://github.com/aglisson6/ENTITY-Data-Science-Virtual-Academy-Final-Project/blob/main/Week%201%20-%20Project%20Proposal.docx)
 
 ## Week 2 Deliverables
 During Week 2 of the project, we started with our initial coding to perform Data Wrangling as we could foresee for our intended analyses. We were also asked to complete a Progress Update document.

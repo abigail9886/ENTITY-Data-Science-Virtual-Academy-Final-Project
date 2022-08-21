@@ -15,5 +15,10 @@ During Week 2 of the project, we started with our initial coding to perform Data
 1. [Week 2 - Data Wrangling (Python Jupyter Notebook)](https://github.com/aglisson6/ENTITY-Data-Science-Virtual-Academy-Final-Project/blob/main/Week%202%20-%20Data%20Wrangling.ipynb) - This version of the code is a copy of my living code document that is intended to mark the progress in time. For the most up-to-date version of code as my work progresses, see below.
 2. [Week 2 - Progress Update (DOCX)](https://github.com/aglisson6/ENTITY-Data-Science-Virtual-Academy-Final-Project/blob/main/Week%202%20-%20Project%20Progress%20Update.docx) - This document seeks to answer the required question prompts for each week of the project progression.
 
+## Week 3 Deliverables
+During Week 3 of the project, we were assigned to complete initial data exploration. I used Tableau to create a number of visualizations that show some aspects of bike rentals over different factors. As this is a preliminary step, a full explanation and presentation of the data has not yet been completed. Additional visualizations may be created in later phases as the project coalesces towards completion.
+1. [Week 3 - Data Exploration (Tableau)](https://public.tableau.com/app/profile/abi.glisson/viz/BikeRentalsFinalProject/Sheet1)
+2. [Week 3 - Progress Update (DOCX)](https://github.com/aglisson6/ENTITY-Data-Science-Virtual-Academy-Final-Project/blob/main/Week%203%20-%20Project%20Progress%20Update.docx)
+
 ## In-Progress Project File
 My most up-to-date living project file can be found [HERE](https://github.com/aglisson6/ENTITY-Data-Science-Virtual-Academy-Final-Project/blob/main/Abi_Glisson%20-%20Final%20Project%20-%20Python.ipynb). I will work in this Jupyter Notebook for the duration of the project, to end with a fully commented and explained file demonstrating the complete data science pipeline.

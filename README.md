@@ -21,4 +21,8 @@ During Week 3 of the project, we were assigned to complete initial data explorat
 2. [Week 3 - Progress Update (DOCX)](https://github.com/aglisson6/ENTITY-Data-Science-Virtual-Academy-Final-Project/blob/main/Week%203%20-%20Project%20Progress%20Update.docx)
 
 ## In-Progress Project File
-My most up-to-date living project file can be found [HERE](https://github.com/aglisson6/ENTITY-Data-Science-Virtual-Academy-Final-Project/blob/main/Abi_Glisson%20-%20Final%20Project%20-%20Python.ipynb). I will work in this Jupyter Notebook for the duration of the project, to end with a fully commented and explained file demonstrating the complete data science pipeline.
+My most up-to-date living project Python file can be found [HERE](https://github.com/aglisson6/ENTITY-Data-Science-Virtual-Academy-Final-Project/blob/main/Abi_Glisson%20-%20Final%20Project%20-%20Python.ipynb). 
+
+My most up-to-date R file can be found [HERE](https://github.com/aglisson6/ENTITY-Data-Science-Virtual-Academy-Final-Project/blob/main/Abi_Glisson%20-%20Final%20Project%20-%20R.ipynb).
+
+I will work in these Jupyter Notebook for the duration of the project, to end with fully commented and explained files demonstrating the complete data science pipeline.

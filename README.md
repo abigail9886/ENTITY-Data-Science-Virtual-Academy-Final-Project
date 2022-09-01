@@ -20,6 +20,12 @@ During Week 3 of the project, we were assigned to complete initial data explorat
 1. [Week 3 - Data Exploration (Tableau)](https://public.tableau.com/app/profile/abi.glisson/viz/BikeRentalsFinalProject/Sheet1)
 2. [Week 3 - Progress Update (DOCX)](https://github.com/aglisson6/ENTITY-Data-Science-Virtual-Academy-Final-Project/blob/main/Week%203%20-%20Project%20Progress%20Update.docx)
 
+## Week 4 Deliverables
+Week 4 was all about Data Analysis. Although I completed initial analyses to the best of my ability, I have reached out to Devin Moya for support in "putting all the pieces together" toward a complete Data Science project.
+1. [Week 4 - Data Analysis (R)](https://github.com/aglisson6/ENTITY-Data-Science-Virtual-Academy-Final-Project/blob/main/Week%204%20-%20Data%20Analysis%20(R).ipynb)
+2. [Week 4 - Data Analysis (Python)](https://github.com/aglisson6/ENTITY-Data-Science-Virtual-Academy-Final-Project/blob/main/Week%204%20-%20Data%20Analysis%20(Python).ipynb)
+3. [Week 4 - Progress Update (DOCX)](https://github.com/aglisson6/ENTITY-Data-Science-Virtual-Academy-Final-Project/blob/main/Week%204%20-%20Project%20Progress%20Update.docx)
+
 ## In-Progress Project File
 My most up-to-date living project Python file can be found [HERE](https://github.com/aglisson6/ENTITY-Data-Science-Virtual-Academy-Final-Project/blob/main/Abi_Glisson%20-%20Final%20Project%20-%20Python.ipynb). 
 

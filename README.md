@@ -1,5 +1,17 @@
 # ENTITY Data Science Virtual Academy Final Project
- A repository to hold my files relating to my final project for the ENTITY Data Science Virtual Academy.
+ This repository contains the files relating to my final project for the ENTITY Data Science Virtual Academy.
+ 
+ ## Evaluation Question
+ #### *Can we predict hourly bike sharing rental counts, given weather, season, and date information?*
+ 
+ ## Final Project Files
+* [Final Presentation Slides](https://github.com/aglisson6/ENTITY-Data-Science-Virtual-Academy-Final-Project/blob/main/Abi%20Glisson%20-%20Final%20Project%20Presentation.pptx)
+* [Final Python Jupyter Notebook](https://github.com/aglisson6/ENTITY-Data-Science-Virtual-Academy-Final-Project/blob/main/Abi_Glisson%20-%20Final%20Project%20-%20Python.ipynb) - main work product
+* [Final R Jupyter Notebook](https://github.com/aglisson6/ENTITY-Data-Science-Virtual-Academy-Final-Project/blob/main/Abi_Glisson%20-%20Final%20Project%20-%20R.ipynb) - supplementary analyses only
+* [Final Tableau Vizzes](https://public.tableau.com/views/BikeRentalsFinalProject/Sheet1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+
+---
+*What follows below are the sign-post products created on the way to the final presentation above. It is not necessary to delve into them unless desired. The files above contain the entire final work product.*
 
 ## Week 1 Deliverables
 During Week 1 of the project, we were asked to complete several pre-planning documents, including choosing our dataset, identifying the variables, and writing a project proposal. Below are links to each of those expected deliverables.
@@ -31,7 +43,7 @@ Week 5 was the week to assemble your presentation - in other words, make your da
 1. [Week 5 - Data Visualization (PPTX)](https://github.com/aglisson6/ENTITY-Data-Science-Virtual-Academy-Final-Project/blob/main/Abi%20Glisson%20-%20Final%20Project%20Presentation.pptx)
 2. [Week 5 - Progress Update (DOCX)](https://github.com/aglisson6/ENTITY-Data-Science-Virtual-Academy-Final-Project/blob/main/Week%205%20-%20Project%20Progress%20Update.docx)
 
-## Final Project Files
-* [Final Python Jupyter Notebook](https://github.com/aglisson6/ENTITY-Data-Science-Virtual-Academy-Final-Project/blob/main/Abi_Glisson%20-%20Final%20Project%20-%20Python.ipynb) - main work product
-* [Final R Jupyter Notebook](https://github.com/aglisson6/ENTITY-Data-Science-Virtual-Academy-Final-Project/blob/main/Abi_Glisson%20-%20Final%20Project%20-%20R.ipynb) - supplementary analyses only
-* [Final Presentation Slides](https://github.com/aglisson6/ENTITY-Data-Science-Virtual-Academy-Final-Project/blob/main/Abi%20Glisson%20-%20Final%20Project%20Presentation.pptx)
+## Week 6 Deliverables
+The main goal of Week 6 was to actually present my final project. I presented my work to Jilian Dickson at 2:30pm ET on Sunday, September 4, 2022. Once I have the recording of my presentation, I will update it here.
+1. [Week 6 - Final Presentation Slides (PPTX)](https://github.com/aglisson6/ENTITY-Data-Science-Virtual-Academy-Final-Project/blob/main/Abi%20Glisson%20-%20Final%20Project%20Presentation.pptx)
+2. [Week 6 - Progress Update (DOCX)](https://github.com/aglisson6/ENTITY-Data-Science-Virtual-Academy-Final-Project/blob/main/Week%206%20-%20Project%20Progress%20Update.docx)

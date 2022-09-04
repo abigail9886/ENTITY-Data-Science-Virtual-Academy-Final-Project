@@ -26,9 +26,12 @@ Week 4 was all about Data Analysis. Although I completed initial analyses to the
 2. [Week 4 - Data Analysis (Python)](https://github.com/aglisson6/ENTITY-Data-Science-Virtual-Academy-Final-Project/blob/main/Week%204%20-%20Data%20Analysis%20(Python).ipynb)
 3. [Week 4 - Progress Update (DOCX)](https://github.com/aglisson6/ENTITY-Data-Science-Virtual-Academy-Final-Project/blob/main/Week%204%20-%20Project%20Progress%20Update.docx)
 
-## In-Progress Project File
-My most up-to-date living project Python file can be found [HERE](https://github.com/aglisson6/ENTITY-Data-Science-Virtual-Academy-Final-Project/blob/main/Abi_Glisson%20-%20Final%20Project%20-%20Python.ipynb). 
+## Week 5 Deliverables
+Week 5 was the week to assemble your presentation - in other words, make your data visual! Unfortnately, with the focus on creating a machine learning model, we don't have a whole lot of exciting work to show from the analysis. However, I did include several interesting visuals from the Data Exploration side.
+1. [Week 5 - Data Visualization (PPTX)](https://github.com/aglisson6/ENTITY-Data-Science-Virtual-Academy-Final-Project/blob/main/Abi%20Glisson%20-%20Final%20Project%20Presentation.pptx)
+2. [Week 5 - Progress Update (DOCX)](https://github.com/aglisson6/ENTITY-Data-Science-Virtual-Academy-Final-Project/blob/main/Week%205%20-%20Project%20Progress%20Update.docx)
 
-My most up-to-date R file can be found [HERE](https://github.com/aglisson6/ENTITY-Data-Science-Virtual-Academy-Final-Project/blob/main/Abi_Glisson%20-%20Final%20Project%20-%20R.ipynb).
-
-I will work in these Jupyter Notebook for the duration of the project, to end with fully commented and explained files demonstrating the complete data science pipeline.
+## Final Project Files
+* [Final Python Jupyter Notebook](https://github.com/aglisson6/ENTITY-Data-Science-Virtual-Academy-Final-Project/blob/main/Abi_Glisson%20-%20Final%20Project%20-%20Python.ipynb) - main work product
+* [Final R Jupyter Notebook](https://github.com/aglisson6/ENTITY-Data-Science-Virtual-Academy-Final-Project/blob/main/Abi_Glisson%20-%20Final%20Project%20-%20R.ipynb) - supplementary analyses only
+* [Final Presentation Slides](https://github.com/aglisson6/ENTITY-Data-Science-Virtual-Academy-Final-Project/blob/main/Abi%20Glisson%20-%20Final%20Project%20Presentation.pptx)
